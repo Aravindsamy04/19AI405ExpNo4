@@ -5,7 +5,7 @@
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
 
-```python
+```
 // A* Search Algorithm
 1.  Initialize the open list
 2.  Initialize the closed list
@@ -119,7 +119,6 @@ while len(open_set) > 0:
 print('Path does not exist!')
 return None
 ```
-
 ```python
 #define fuction to return neighbor and its distance
 #from the passed node
